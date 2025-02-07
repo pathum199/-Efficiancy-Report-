@@ -18,9 +18,10 @@ Daily Monitoring  Employee efficiancy.
 
 <H3> Dashbord </H3>
 
-![Screenshot 2025-02-07 082401](https://github.com/user-attachments/assets/a1670f31-9669-4062-8d5c-ffce56cbbdfd)<br>
+![sss](https://github.com/user-attachments/assets/194b2317-9d18-4736-96ac-ef44696acee5)
+![Screenshot 2025-02-07 082509](https://github.com/user-attachments/assets/ae10cd95-fddf-4ed0-99f2-eadf368171e8)
 
-![Screenshot 2025-02-07 082509](https://github.com/user-attachments/assets/6b8d6602-0755-416c-9500-8826223df352)
+
 
 Pathum Basnayaka<br>
 pathum19990726@gmail.com
