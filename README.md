@@ -2,7 +2,7 @@
 Daily Monitoring  Employee efficiancy.
 
 <H3> Overview </H3>
-<p> This Efficiency Report Dashboard provides insights into MES Efficiency, Standard Allowed Hours (SAH), and Work Hours for different sections and work centers at Hela Clothing Company. It enables management to track efficiency trends, compare performance across months, and analyze data at both the section and work center levels.</p><br>
+<p> This Efficiency Report Dashboard provides insights into MES Efficiency, Standard Allowed Hours (SAH), and Work Hours for different sections and work centers at Apperal  Company. It enables management to track efficiency trends, compare performance across months, and analyze data at both the section and work center levels.</p><br>
 <H3> Features </H3>
 <p>
 ✅ Section-wise Efficiency Analysis – Displays MES Efficiency % along with SAH and Work Hours for each section.<br>
